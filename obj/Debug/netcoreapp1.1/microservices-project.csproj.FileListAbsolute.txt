@@ -1,0 +1,10 @@
+/Users/danny/Documents/microservices-project/bin/Debug/netcoreapp1.1/microservices-project.deps.json
+/Users/danny/Documents/microservices-project/bin/Debug/netcoreapp1.1/microservices-project.runtimeconfig.json
+/Users/danny/Documents/microservices-project/bin/Debug/netcoreapp1.1/microservices-project.runtimeconfig.dev.json
+/Users/danny/Documents/microservices-project/bin/Debug/netcoreapp1.1/microservices-project.dll
+/Users/danny/Documents/microservices-project/bin/Debug/netcoreapp1.1/microservices-project.pdb
+/Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.csprojAssemblyReference.cache
+/Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.AssemblyInfoInputs.cache
+/Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.AssemblyInfo.cs
+/Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.dll
+/Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.pdb
