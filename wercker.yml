@@ -25,5 +25,5 @@ deploy:
         username: $USERNAME
         password: $PASSWORD
         repository: docker/dtxciv/microservices-project
-        registry: https://hub.docker.com
+        registry: https://registry.hub.docker.com
         entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
