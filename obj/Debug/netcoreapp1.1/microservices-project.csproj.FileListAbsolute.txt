@@ -8,3 +8,11 @@
 /Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.AssemblyInfo.cs
 /Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.dll
 /Users/danny/Documents/microservices-project/obj/Debug/netcoreapp1.1/microservices-project.pdb
+/pipeline/source/bin/Debug/netcoreapp1.1/microservices-project.deps.json
+/pipeline/source/bin/Debug/netcoreapp1.1/microservices-project.runtimeconfig.json
+/pipeline/source/bin/Debug/netcoreapp1.1/microservices-project.runtimeconfig.dev.json
+/pipeline/source/bin/Debug/netcoreapp1.1/microservices-project.dll
+/pipeline/source/bin/Debug/netcoreapp1.1/microservices-project.pdb
+/pipeline/source/obj/Debug/netcoreapp1.1/microservices-project.AssemblyInfo.cs
+/pipeline/source/obj/Debug/netcoreapp1.1/microservices-project.dll
+/pipeline/source/obj/Debug/netcoreapp1.1/microservices-project.pdb
